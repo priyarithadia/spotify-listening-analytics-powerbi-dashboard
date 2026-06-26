@@ -186,7 +186,13 @@ Potential enhancements include:
 
 *A short walkthrough video of the dashboard is available below.*
 
-> *(Add your LinkedIn video, GitHub video, or YouTube link here once recorded.)*
+(https://github.com/user-attachments/assets/44317210-613a-44aa-858c-8036149ed28b
+
+https://github.com/user-attachments/assets/1c957104-42bb-4560-a296-007d99307509
+
+https://github.com/user-attachments/assets/b1164d37-cac2-43eb-b981-b10917bd1cb1
+
+https://github.com/user-attachments/assets/1410ae3d-90e8-465d-bc81-3a69a7bbb054)
 
 ---
 
